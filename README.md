@@ -7,20 +7,24 @@ This repository is meticulously crafted to help you ace Python interviews, from 
 
 ## 🗂️ Table of Contents
 
-1. [Python Basics & Data Types](#1-python-basics--data-types)
-2. [Control Flow](#2-control-flow)
-3. [Functions & Scoping](#3-functions--scoping)
-4. [Object-Oriented Programming](#4-object-oriented-programming)
-5. [Modules, Packages, and Imports](#5-modules-packages-and-imports)
-6. [File I/O and Exception Handling](#6-file-io-and-exception-handling)
-7. [Python Standard Library & Useful Modules](#7-python-standard-library--useful-modules)
-8. [Iterators, Generators, and Comprehensions](#8-iterators-generators-and-comprehensions)
-9. [Functional Programming Tools](#9-functional-programming-tools)
-10. [Decorators and Context Managers](#10-decorators-and-context-managers)
-11. [Concurrency and Parallelism](#11-concurrency-and-parallelism)
-12. [Testing and Best Practices](#12-testing-and-best-practices)
-13. [Interview Tips & Problem Solving Patterns](#13-interview-tips--problem-solving-patterns)
-14. [Additional Resources](#14-additional-resources)
+Each topic has a direct [video] link for on-demand visual learning. Section names are preserved as provided.
+
+| #  | Section | &nbsp; | Video Link |
+|----|-------------------------------------------------------------|-------|----------|
+| 1  | [Python Basics & Data Types](#1-python-basics--data-types) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Basics+Data+Types) |
+| 2  | [Control Flow](#2-control-flow) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Control+Flow+Statements) |
+| 3  | [Functions & Scoping](#3-functions--scoping) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Functions+Scope) |
+| 4  | [Object-Oriented Programming](#4-object-oriented-programming) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Object+Oriented+Programming) |
+| 5  | [Modules, Packages, and Imports](#5-modules-packages-and-imports) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Modules+Packages+Imports) |
+| 6  | [File I/O and Exception Handling](#6-file-io-and-exception-handling) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+File+IO+Exception+Handling) |
+| 7  | [Python Standard Library & Useful Modules](#7-python-standard-library--useful-modules) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Standard+Library+Useful+Modules) |
+| 8  | [Iterators, Generators, and Comprehensions](#8-iterators-generators-and-comprehensions) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Iterators+Generators+Comprehensions) |
+| 9  | [Functional Programming Tools](#9-functional-programming-tools) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Functional+Programming) |
+| 10 | [Decorators and Context Managers](#10-decorators-and-context-managers) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Decorators+Context+Managers) |
+| 11 | [Concurrency and Parallelism](#11-concurrency-and-parallelism) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Concurrency+Parallelism) |
+| 12 | [Testing and Best Practices](#12-testing-and-best-practices) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Testing+Best+Practices) |
+| 13 | [Interview Tips & Problem Solving Patterns](#13-interview-tips--problem-solving-patterns) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Interview+Tips+Problem+Solving) |
+| 14 | [Additional Resources](#14-additional-resources) | &nbsp; | [video](https://www.youtube.com/results?search_query=Python+Programming+Resources) |
 
 ---
 
@@ -160,6 +164,7 @@ This repository is meticulously crafted to help you ace Python interviews, from 
 - Use the reference links for in-depth learning.
 - Practice coding problems and review best practices.
 - Star ⭐ this repo to keep it handy and contribute with PRs to add or improve content!
+- For instant explanations and tutorials, use the [video] links alongside each section.
 
 ---
 
